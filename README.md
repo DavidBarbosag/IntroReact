@@ -97,5 +97,7 @@ configuración mínima Web-MVC.
    ```
 ![index.html](https://github.com/user-attachments/assets/c1039a2c-f6e8-429a-a5b6-a6c702d13c60)
 
+## Actualizando elementos del DOM
 
+![componenteTick](assets/componentTick.png)
    
